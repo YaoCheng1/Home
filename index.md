@@ -1,4 +1,4 @@
-## 欢迎来到 姚程 的主页
+## 姚程 的主页
 
 You can use the [editor on GitHub](https://github.com/YaoCheng1/Home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
